@@ -5,3 +5,4 @@
 1) Set Matrix Zeroes
 2) Move Zeroes
 3) Best Time to Buy and Sell Stock
+4) Find the Duplicate Number
