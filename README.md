@@ -7,3 +7,4 @@
 3) Best Time to Buy and Sell Stock
 4) Find the Duplicate Number
 5) Sort Colors
+6) Remove Duplicates from Sorted Array
