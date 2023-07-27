@@ -10,6 +10,7 @@
 6) Remove Duplicates from Sorted Array
 7) Two Sum
 8) Word search
+9) Chocolate Distribution
 
    
 # **Strings**
