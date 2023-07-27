@@ -16,3 +16,7 @@
 # **Strings**
 1) Valid Parentheses
 2) Find the Index of the First Occurrence in a String
+
+
+# **Hackerrank**
+1) Sasuke's Attack_Accenture
