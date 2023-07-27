@@ -10,6 +10,8 @@
 6) Remove Duplicates from Sorted Array
 7) Two Sum
 8) Word search
+
+   
 **Strings**
 1) Valid Parentheses
 2) Find the Index of the First Occurrence in a String
