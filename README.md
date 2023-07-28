@@ -21,3 +21,5 @@
 # **Hackerrank**
 1) Sasuke's Attack_Accenture
 2) MBA challenge
+3) Minimum Prime Factor_Accenture
+4) Longest Even Substring_[Accenture]
