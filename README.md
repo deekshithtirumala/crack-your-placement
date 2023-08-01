@@ -23,3 +23,6 @@
 2) MBA challenge
 3) Minimum Prime Factor_Accenture
 4) Longest Even Substring_[Accenture]
+5) Alternate Even Odd Series
+6) Longest continuous sequence that can be made
+7) Same Sum of Digit pairs
