@@ -11,6 +11,7 @@
 7) Two Sum
 8) Word search
 9) Chocolate Distribution
+10) Find All Duplicates in an Array
 
    
 # **Strings**
