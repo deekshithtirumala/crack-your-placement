@@ -27,3 +27,7 @@
 5) Alternate Even Odd Series
 6) Longest continuous sequence that can be made
 7) Same Sum of Digit pairs
+8) Problem 13 InfyTQ
+9) IP Address Validation
+10) Problem 45 Infytq
+11) INFY TQ problem 17
