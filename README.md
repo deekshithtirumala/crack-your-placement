@@ -31,3 +31,7 @@
 9) IP Address Validation
 10) Problem 45 Infytq
 11) INFY TQ problem 17
+12) kth non repeating character
+13) Possible Palindromes
+14) Same number of 0s and 1s
+15) MCQ Results
